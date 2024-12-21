@@ -171,3 +171,13 @@ ls --color=auto
 ls --color=auto /bin
 man sleep
 sleep 3
+cd /project
+cd ..
+ls --color=auto
+cd project
+cd workspace
+ls --color=auto
+cd project
+ls --color=auto
+./countdown.sh
+./countdown.sh 3
