@@ -357,3 +357,4 @@ echo $?
 clear
 .five.sh
 ./five.sh
+help
