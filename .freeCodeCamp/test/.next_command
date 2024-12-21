@@ -219,3 +219,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch bingo.sh
 chmod +x bingo.sh
 __vsc_prompt_cmd_original
+./bingo.sh
