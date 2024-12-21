@@ -326,3 +326,21 @@ touch five.sh
 chmod +x five.sh
 __vsc_prompt_cmd_original
 ./five.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+help if
+man if
+help [
+help [{
+help [[
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
