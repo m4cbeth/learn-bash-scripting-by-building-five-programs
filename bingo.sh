@@ -12,4 +12,6 @@ elif (( NUMBER < 46 )); then
   echo $TEXT N:$NUMBER
 elif [[ $NUMBER -lt 61 ]]; then
   echo $TEXT G:$NUMBER
+else
+  echo $TEXT O:$NUMBER
 fi
