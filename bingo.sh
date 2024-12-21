@@ -10,4 +10,6 @@ then
   echo $TEXT I:$NUMBER
 elif (( NUMBER < 46 )); then
   echo $TEXT N:$NUMBER
+elif [[ $NUMBER -lt 61 ]]; then
+  echo $TEXT G:$NUMBER
 fi
