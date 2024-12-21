@@ -101,3 +101,4 @@ help
 help expression
 help [[ expression ]]
 help test
+./countdown.sh 5
