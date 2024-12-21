@@ -100,3 +100,4 @@ help if
 help
 help expression
 help [[ expression ]]
+help test
