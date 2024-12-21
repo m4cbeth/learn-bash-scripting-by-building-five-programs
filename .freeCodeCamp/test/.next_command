@@ -316,3 +316,4 @@ echo $VAR
 [[ "test?" =~ /?$ ]]
 [[ "test?" =~ /?$ ]]
 [[ "test?" =~ \?$ ]]
+__vsc_prompt_cmd_original
