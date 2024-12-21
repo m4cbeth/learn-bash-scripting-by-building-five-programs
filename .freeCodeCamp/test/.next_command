@@ -344,3 +344,13 @@ help [[
 ./fortune.sh
 ./fortune.sh
 ./fortune.sh
+ls --color=auto -l
+chmod -rwxr-xr-x questionnaire.sh
+ls --color=auto -l
+chmod -w questionnaire.sh
+ls --color=auto -l
+chmod +rwx questionnaire.sh
+ls --color=auto -l
+./countdown.sh 3
+echo $?
+./countdown.sh 3
