@@ -354,3 +354,4 @@ ls --color=auto -l
 ./countdown.sh 3
 echo $?
 ./countdown.sh 3
+clear
